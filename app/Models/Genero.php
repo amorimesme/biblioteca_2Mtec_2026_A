@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 
 /**
- * Model da tabela GENEROS 
+ * Model da tabela GENEROS.
  */
 class Genero extends Model
 {
